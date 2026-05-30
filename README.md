@@ -17,8 +17,7 @@
 4. **重置系統**：具備一鍵重啟遊戲流程 (`restartGame`) 與完整的記憶體回收機制 (`freeSnake`)。
 
 ## 📺 成果演示
-*(在此處插入你 YouTube 影片的截圖連結，或者直接放上影片連結)*
-[點此觀看示範影片](你的YouTube網址)
+[點此觀看示範影片](https://www.youtube.com/watch?v=iLlkaU_FNpg)
 
 ## 📂 檔案說明
 - `計算機期末3版.cpp`: 核心原始碼
